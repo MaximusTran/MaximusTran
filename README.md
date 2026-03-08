@@ -70,15 +70,15 @@ Some things I'm working on or exploring:
 
 - ⚙️ Embedded Development Tools
 
-      - Tooling and environments for building embedded modules independently from large build systems
+-- Tooling and environments for building embedded modules independently from large build systems
 
 - 🔧 SDK & Toolchain Experiments
 
-      - Creating portable development environments for embedded platforms
+-- Creating portable development environments for embedded platforms
 
 - 🌐 Web3 & Crypto Exploration
 
-      - Researching blockchain projects and participating in early ecosystem activities
+-- Researching blockchain projects and participating in early ecosystem activities
 
 ## 📚 Learning & Building
 
