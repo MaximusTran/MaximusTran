@@ -82,7 +82,7 @@ Some things I'm working on or exploring:
 
 ## 📚 Learning & Building
 
-- I enjoy building projects that combine:
+I enjoy building projects that combine:
 
 - Low-level systems engineering
 
